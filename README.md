@@ -1,3 +1,3 @@
 # Contributing
 
-commit name should describe the image thanks prs welcome
+thanks prs welcome
